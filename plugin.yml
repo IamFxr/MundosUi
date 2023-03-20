@@ -1,0 +1,21 @@
+name: Mundos
+main: ShxdowSxnti\Warps\Main
+api: 4.0.0
+version: 1.0.0
+author: ShxdowSxnti
+
+#Discord: ShxdowSxnti#0001
+
+commands:
+  mundos:
+   description: "Teletransportarte a los mundos: by Shxdow"
+   usage: "/mundos"
+   permission: mundos.use
+
+permissions:
+  mundos.use:
+   description: "Permission use"
+   default: true
+  minavip.perm: 
+   description:  "Permission to acces minavip"
+   default: op
