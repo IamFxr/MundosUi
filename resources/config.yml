@@ -1,0 +1,56 @@
+#esto es para cambiar como saldra. 
+Titulo-Warps: "§l§gWarps del Servidor" 
+
+#Boton de minas la categoría 
+Minas_Boton: "§l§gMinas\n§rClick para abrir" 
+image_minas: "textures/ui/icon_iron_pickaxe"
+
+#Boton de Minigames la categoria
+MiniGames_Boton: "§l§gMinigames\n§rClick para abrir" 
+image_minigames: "textures/ui/haste_effect"
+
+#texto en la parte de arriba
+Minigames_text: "§l§gEstos son los minigames del servidor" 
+
+Minas_text: "§l§gEstas son las minas del servidor" 
+
+#esto es para poner el warp al que ira cada lugar, util para configurar todo
+#categoría (es un warp comun) 3 (abajo de la categoría games) 
+Warp_1: "factions" 
+Title_1: "§l§eFactions\n§r§fJugadores:"
+image_1: "textures/ui/iron_pickaxe" 
+#categoria abajo de factions 
+Warp_2: "eventos" 
+Title_2: "§l§eEventos\n§r§fJugadores:"
+image_2: "textures/ui/gift_square" 
+#categoria abajo de eventos
+Warp_3: "lobby" 
+Title_3: "§l§eLobby\n§r§fJugadores:" 
+image_3: "textures/ui/FriendsIcon"
+
+#Games warps
+Game_1: "bosses"
+Bosses_1: "§l§eBosses\n§f§rJugadores:"
+game_image_1: "textures/ui/gift_square"
+#koth
+Game_2: "koth"
+Koth_1: "§l§eKoth\n§f§rJugadores:"
+game_image_2: "textures/ui/gift_square"
+#ffa
+Game_3: "ffa"
+Ffa_1: "§l§eFfa\n§f§rJugadores:"
+game_image_3: "textures/ui/gift_square"
+
+#Minas pipi
+#mina pvp
+Mina_1: "minapvp"
+Pvp_1: "§l§eMinaPvp\n§f§rJugadores:"
+mina_image_1: "textures/ui/gift_square"
+
+Mina_2: "minanormal" #esto es el mundo a teletransportar para sacarlo usa /mw list y pones el de tu minanormal"
+Normal_1: "§l§eMinaNormal\n§f§rJugadores:"
+mina_image_2: "textures/ui/gift_square"
+
+Mina_3: "minavip"
+Vip_1: "§l§eMinaVip\n§f§rJugadores:"
+mina_image_3: "textures/ui/gift_square"
