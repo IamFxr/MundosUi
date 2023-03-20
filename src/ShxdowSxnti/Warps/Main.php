@@ -218,7 +218,7 @@ $player->teleport($this->getServer()->getWorldManager()->getWorldByName($this->g
 				$form->addButton(($this->getConfig()->get("Pvp_1")).count($this->getServer()->getWorldManager()->getWorldByName($this->getConfig()->get("Mina_1"))->getPlayers()), 0, ($this->getConfig()->get("mina_image_1")));
 				
 				$form->addButton(($this->getConfig()->get("Normal_1")).count($this->getServer()->getWorldManager()->getWorldByName($this->getConfig()->get("Mina_2"))->getPlayers()), 0, ($this->getConfig()->get("mina_image_2")));
-				$form->addButton(($this->getConfig()->get("Vip_1")).count($this->getServer()->getWorldManager()->getWorldByName($this->getConfig()->get("Mina_3"))->getPlayers()), 0, ($this->getConfig()->get("game_image_3")));
+				$form->addButton(($this->getConfig()->get("Vip_1")).count($this->getServer()->getWorldManager()->getWorldByName($this->getConfig()->get("Mina_3"))->getPlayers()), 0, ($this->getConfig()->get("mina_image_3")));
 				
 				$form->addButton("§l§cSALIR",0,"textures/ui/redX1");
 		$form->sendToPlayer($player);
