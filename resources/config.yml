@@ -18,7 +18,7 @@ Minas_text: "§l§gEstas son las minas del servidor"
 #categoría (es un warp comun) 3 (abajo de la categoría games) 
 Warp_1: "factions" 
 Title_1: "§l§eFactions\n§r§fJugadores:"
-image_1: "textures/ui/iron_pickaxe" 
+image_1: "textures/items/iron_pickaxe" 
 #categoria abajo de factions 
 Warp_2: "eventos" 
 Title_2: "§l§eEventos\n§r§fJugadores:"
